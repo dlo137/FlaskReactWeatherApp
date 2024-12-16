@@ -2,7 +2,7 @@
 
 function App() {
   return (
-      <h1>cra-template-redux-thunk</h1>
+      <h1>testing</h1>
   );
 }
 
