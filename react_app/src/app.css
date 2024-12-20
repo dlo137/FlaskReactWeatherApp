@@ -1,0 +1,75 @@
+header,body,footer, div{
+    width: 100%;
+    border: 1px solid red;
+}
+
+.app{
+    /* Structure */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+    /* Aesthetic */
+    padding: 2rem;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    text-align: center;
+    gap: 2.5rem;
+
+
+    /* Color-Styling */
+    background-color: black;
+    color: white;
+}
+
+
+.app > body {
+    width: 100%;
+    height: 50%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(1, fr);
+    gap: 1rem;
+}
+
+
+
+@media (max-width: 900px) {
+    .app > body {
+        height: 100%;
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: auto;
+        gap: 1rem;
+    }
+
+    
+}
+
+@media (max-width: 600px) {
+    .app > body {
+        height: 100%;
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: auto;
+        gap: 1rem;
+    }
+
+    
+}
+
+
+
+
+
+
+
+input{
+    padding: .2rem .8rem ;
+    border-radius: .75rem;
+    width: 75%;
+}

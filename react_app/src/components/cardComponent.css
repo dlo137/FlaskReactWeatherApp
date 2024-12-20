@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 1px solid red;  
+}
+
+
+
+
+.card-container{
+    /* Structure */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+
+    /* Aesthetic */
+    border-radius: 1rem;
+    padding: 1rem;
+
+    /* Color-Styling */
+    background: rgba(111, 111, 111, 0.2) ;
+    border: 1px solid red;
+}
+
+.card-container h2{
+    font-size: 1rem;
+}
+
+.weather-title{
+    text-align: left;
+    font-style: italic;
+    font-weight: 100;
+}
+
+.card-footer{
+    display: flex;
+    align-items: end;
+    gap: .50rem;
+}
+
+.weather-value{
+    text-align: right;
+    font-weight: 150;
+    font-size: 4.5rem;
+}
+
+
+.caption{
+    text-align: left;
+    font-weight: 125;
+}
