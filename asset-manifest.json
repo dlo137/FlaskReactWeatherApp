@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/FlaskReactWeatherApp/static/css/main.6ad81024.css",
+    "main.css": "/FlaskReactWeatherApp/static/css/main.06a8db16.css",
     "main.js": "/FlaskReactWeatherApp/static/js/main.e1fbd823.js",
     "static/media/oregan.webp": "/FlaskReactWeatherApp/static/media/oregan.f60781467c7a05ff6d4c.webp",
     "index.html": "/FlaskReactWeatherApp/index.html",
-    "main.6ad81024.css.map": "/FlaskReactWeatherApp/static/css/main.6ad81024.css.map",
+    "main.06a8db16.css.map": "/FlaskReactWeatherApp/static/css/main.06a8db16.css.map",
     "main.e1fbd823.js.map": "/FlaskReactWeatherApp/static/js/main.e1fbd823.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ad81024.css",
+    "static/css/main.06a8db16.css",
     "static/js/main.e1fbd823.js"
   ]
 }
