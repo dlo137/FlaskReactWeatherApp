@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/dlo137/FlaskReactWeatherApp/static/css/main.3dc35cce.css",
-    "main.js": "/dlo137/FlaskReactWeatherApp/static/js/main.b1d4f18c.js",
-    "static/media/o3.jpg": "/dlo137/FlaskReactWeatherApp/static/media/o3.3ae7f4a9abdd4dc39738.jpg",
-    "index.html": "/dlo137/FlaskReactWeatherApp/index.html",
-    "main.3dc35cce.css.map": "/dlo137/FlaskReactWeatherApp/static/css/main.3dc35cce.css.map",
-    "main.b1d4f18c.js.map": "/dlo137/FlaskReactWeatherApp/static/js/main.b1d4f18c.js.map"
+    "main.css": "/FlaskReactWeatherApp/static/css/main.ab3901a5.css",
+    "main.js": "/FlaskReactWeatherApp/static/js/main.b1d4f18c.js",
+    "static/media/o3.jpg": "/FlaskReactWeatherApp/static/media/o3.3ae7f4a9abdd4dc39738.jpg",
+    "index.html": "/FlaskReactWeatherApp/index.html",
+    "main.ab3901a5.css.map": "/FlaskReactWeatherApp/static/css/main.ab3901a5.css.map",
+    "main.b1d4f18c.js.map": "/FlaskReactWeatherApp/static/js/main.b1d4f18c.js.map"
   },
   "entrypoints": [
-    "static/css/main.3dc35cce.css",
+    "static/css/main.ab3901a5.css",
     "static/js/main.b1d4f18c.js"
   ]
 }
